@@ -19,8 +19,8 @@
 ---
 include:
   - board: nrfmicro_13
-    shield: a_dux_left
+    shield: corne_left
   - board: nrfmicro_13
-    shield: a_dux_right
+    shield: corne_right
   - board: nrfmicro_13
     shield: settings_reset
